@@ -1,2 +1,2 @@
 # DeepLearning
-Studying from beginning, update when completing new projects.
+Studying from beginning, update when completing new projects / hws.
